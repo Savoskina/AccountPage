@@ -9,7 +9,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #FFFFFB 50%, #F8F8FA 50%);
+    background: linear-gradient(to right, #FFFFFB 50%, #f8f9fa 50%);
     font-family: Nunito, sans-serif;
 }
 
@@ -108,7 +108,7 @@ body {
 
 .btn {
     padding: 21px 21px 25px;
-    background: #DD3142;
+    background: #1e7be7;
     border-radius: 40px;
     border: 0;
     font-size: 20px;
