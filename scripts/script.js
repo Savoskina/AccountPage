@@ -63,7 +63,7 @@ window.onload = function () {
             alert('Необходимо ваше согласие с условиями');
             return;
         }
-
+        // Добавление всплывающего окна
         document.getElementById('popup').classList.remove('close');
     }
 
