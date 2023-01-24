@@ -25,7 +25,7 @@ window.onload = function () {
         return true;
 
     }
-
+    // Проверка полей на заполненость
     function checkTextField(array) {
         for (let i = 0; i < array.length; i++) {
             let inputField = array[i].lastElementChild;
