@@ -119,5 +119,5 @@ window.onload = function () {
     }
 
     document.getElementById('link-account').onclick = goToLogIn;
-
+    console.log('Good work!')
 }
